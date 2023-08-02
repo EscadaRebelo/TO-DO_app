@@ -8,10 +8,6 @@ A to-do app that allows users to add new goals, and erase them by clicking on th
 #
  <img align="left" alt="React" width="350px"  style="padding-right:10px;" src="https://i.imgur.com/2egYDBx.jpg" />
  <img align="left" alt="React" width="350px"  style="padding-right:10px;" src="https://i.imgur.com/nMs34hF.jpg" />
- <img align="left" alt="React" width="350px"  style="padding-right:10px;" src="https://i.imgur.com/ALFEHsF.jpg" />
- 
-
-
 
 ## Features
 
